@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [http://aniketmaurya.ml](http://aniketmaurya.ml)
 
-- 💬 Ask me about **Tensorflow, Computer Vision - (Object detection, Face Recognition, GANs), Information extraction (NLP)**
+- 💬 Ask me about **Tensorflow, Computer Vision - (Object detection, Face Recognition, GANs), Information extraction from text and image documents (NLP + CV)**
 
 - 📫 How to reach me **theaniketmaurya@gmail.com**
 
