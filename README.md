@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Object Detection**
 
-- 👨‍💻 All of my projects are available at [https://aniketmaurya.ml/projects/](https://aniketmaurya.ml/projects/)
+- 👨‍💻 Read my blogs and articles at [https://aniketmaurya.ml/](https://aniketmaurya.ml/)
 
 - 📝 I regulary write articles on [http://aniketmaurya.ml](http://aniketmaurya.ml)
 
