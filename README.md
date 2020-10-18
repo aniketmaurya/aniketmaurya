@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya" alt="aniketmaurya" /> </p>
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Generative Adversarial Networks**
 
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.ml/](https://aniketmaurya.ml/) -->
 
