@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya" alt="aniketmaurya" /> </p>
 
-- 🔭 I’m currently working on building **Machine Learning services** at [Quinbay](https://quinbay.com).
+- 🔭 I build **Machine Learning services** at [Quinbay](https://quinbay.com).
 
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.ml/](https://aniketmaurya.ml/) -->
 
