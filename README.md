@@ -5,6 +5,8 @@
 
 - 🔭 I build **Machine Learning | Computer vision services** at [Quinbay](https://quinbay.com).
 
+- 🎉 I have created [Chitra](http://chitra.aniketmaurya.ml), a Python library for rapid computer vision experiment.
+
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.ml/](https://aniketmaurya.ml/) -->
 
 - 📝 I regulary write articles on [http://blog.aniketmaurya.ml](http://blog.aniketmaurya.ml)
