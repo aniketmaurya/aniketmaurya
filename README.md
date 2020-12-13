@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya" alt="aniketmaurya" /> </p>
 
-- 🔭 I build **Machine Learning | Computer vision services** at [Quinbay](https://quinbay.com).
+- 🔭 I build **Machine Learning | Computer vision product** at [Quinbay](https://quinbay.com).
 
 - 🎉 I have created [Chitra](http://chitra.aniketmaurya.ml), a Python library for rapid computer vision experiment.
 
