@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Maurya</h1>
-<h3 align="center">Machine Learning enthusiast from India</h3>
+<h3 align="center">Machine Learning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya" alt="aniketmaurya" /> </p>
 
