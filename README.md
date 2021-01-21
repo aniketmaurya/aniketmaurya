@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya" alt="aniketmaurya" /> </p>
 
-- 🔭 I build **Machine Learning | Computer vision product** at [Quinbay](https://quinbay.com).
+- 🔭 I build **Machine Learning & Deep Learning product** at [Quinbay](https://quinbay.com).
 
 - 🎉 I have created [Chitra](http://chitra.aniketmaurya.ml), a Python library for rapid computer vision experiment.
 
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.ml/](https://aniketmaurya.ml/) -->
 
-- 📝 I regulary write articles on [http://blog.aniketmaurya.ml](http://blog.aniketmaurya.ml)
+- 📝 I regulary write articles at [http://blog.aniketmaurya.ml](http://blog.aniketmaurya.ml)
 
-- 💬 Ask me about **Tensorflow, Computer Vision - (Object detection, Face Recognition, GANs), Information extraction from text and image documents (NLP + CV)**
+- 💬 Ask me about **Tensorflow, PyTorch, Computer Vision - (GANs, Object detection, Face Recognition), Information extraction from text and image documents (NLP + CV)**
 
-- 📫 How to reach me **theaniketmaurya@gmail.com**
+- 📫 How to reach me **aniketmaurya@outlook.com**
 
 - ⚡ Fun fact **Chai over Coffee**
 
