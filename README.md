@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Tensorflow, PyTorch, Computer Vision - (GANs, Object detection, Face Recognition), Information extraction from text and image documents (NLP + CV)**
 
-- 📫 How to reach me **aniketmaurya@outlook.com**
+- 📫 How to reach me **hello@aniketmaurya.com**
 
 - ⚡ Fun fact **Chai over Coffee**
 
