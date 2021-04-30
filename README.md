@@ -7,9 +7,9 @@
 
 - 🎉 I have created [Chitra](http://chitra.aniketmaurya.ml), a Python library for rapid computer vision experiment and model iterpretability with minimum code.
 
-<!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.ml/](https://aniketmaurya.ml/) -->
+<!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.com/](https://aniketmaurya.com/) -->
 
-- 📝 I regulary write articles at [http://blog.aniketmaurya.ml](http://blog.aniketmaurya.ml)
+- 📝 I regulary write articles at [http://blog.aniketmaurya.com](http://blog.aniketmaurya.com)
 
 - 💬 Ask me about **Tensorflow, PyTorch, Computer Vision - (GANs, Object detection, Face Recognition), Information extraction from text and image documents (NLP + CV)**
 
