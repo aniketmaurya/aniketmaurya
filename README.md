@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya" alt="aniketmaurya" /> </p>
 
-- 🔭 I build **Machine Learning & Deep Learning product** at [Quinbay](https://quinbay.com).
+- 🔭 I build Intelligent Software with Machine Learning at [Quinbay](https://quinbay.com).
 
 - 🎉 I created [Chitra](http://github.com/aniketmaurya/chitra), a Python library for rapid computer vision experiment and model iterpretability with minimum code.
 
