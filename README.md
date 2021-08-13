@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/aniketmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/aniketmaurya?logo=twitter&style=for-the-badge" alt="aniketmaurya" /></a> </p>
 
 
-- 🎉 I created [Chitra](http://github.com/aniketmaurya/chitra), a Python library for rapid computer vision experiment and model iterpretability with minimum code.
+- 🎉 I created [Chitra](http://github.com/aniketmaurya/chitra), a Python library for rapid computer vision experiment and model interpretability with minimum code.
 
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.com/](https://aniketmaurya.com/) -->
 
