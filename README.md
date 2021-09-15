@@ -8,7 +8,9 @@
 <p align="left"> <a href="https://twitter.com/aniketmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/aniketmaurya?logo=twitter&style=for-the-badge" alt="aniketmaurya" /></a> </p> -->
 
 
-- 🎉 I created [Chitra](http://github.com/aniketmaurya/chitra), A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment.
+- 🎉 Created [Chitra](http://github.com/aniketmaurya/chitra), A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment.
+
+- After getting bored with iterative Machine Learning I created [GradsFlow](docs.gradsflow.com) - an AutoML library in PyTorch ⚡️ 🚀
 
 
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.com/](https://aniketmaurya.com/) -->
