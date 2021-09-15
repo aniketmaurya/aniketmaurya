@@ -10,7 +10,7 @@
 
 - 🎉 Created [Chitra](http://github.com/aniketmaurya/chitra), A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment.
 
-- After getting bored with iterative Machine Learning I created [GradsFlow](docs.gradsflow.com) - an AutoML library in PyTorch ⚡️ 🚀
+- After getting bored with iterative Machine Learning I created [GradsFlow](https://docs.gradsflow.com) - an AutoML library in PyTorch ⚡️ 🚀
 
 
 <!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.com/](https://aniketmaurya.com/) -->
