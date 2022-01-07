@@ -25,8 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gradsflow — Democratizing AI with AutoML](https://towardsdatascience.com/gradsflow-democratizing-ai-with-automl-9a8a75d6b7ea?source=rss-ad259370ba3c------2)
 - [Answer: Resizing image and its bounding box](https://dev.to/aniketmaurya/answer-resizing-image-and-its-bounding-box-5c5d)
-- [Building Machine Learning API with FastAPI](https://dev.to/aniketmaurya/building-machine-learning-api-with-fastapi-2ecl)
+- [DCGAN Tutorial — Deep Convolutional Generative Adversarial Network](https://medium.com/analytics-vidhya/dcgan-tutorial-by-aniket-maurya-f6c137ef0053?source=rss-ad259370ba3c------2)
+- [Deploy Machine Learning Web Apps for Free](https://pub.towardsai.net/deploy-machine-learning-web-app-for-free-70f208e8d31d?source=rss-ad259370ba3c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
