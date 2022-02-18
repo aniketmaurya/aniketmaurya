@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ID Card Verification and Auto-KYC with Deep Learning](https://aniketmaurya.medium.com/id-card-verification-and-auto-kyc-with-deep-learning-48f140785f96?source=rss-ad259370ba3c------2)
+- [ID Card Verification and Auto-KYC with Deep Learning](https://medium.com/quinbay/id-card-verification-and-auto-kyc-with-deep-learning-48f140785f96?source=rss-ad259370ba3c------2)
 - [Gradsflow — Democratizing AI with AutoML](https://towardsdatascience.com/gradsflow-democratizing-ai-with-automl-9a8a75d6b7ea?source=rss-ad259370ba3c------2)
 - [Answer: Resizing image and its bounding box](https://dev.to/aniketmaurya/answer-resizing-image-and-its-bounding-box-5c5d)
 - [DCGAN Tutorial — Deep Convolutional Generative Adversarial Network](https://medium.com/analytics-vidhya/dcgan-tutorial-by-aniket-maurya-f6c137ef0053?source=rss-ad259370ba3c------2)
