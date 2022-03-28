@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Maurya</h1>
-<h3 align="center">👨‍💻 Building Intelligent Software with Machine Learning</h3>
+<h3 align="center">🥑 Developer Advocate at Grid.ai | 👨‍💻 Building Intelligent Software with Machine Learning</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmaurya" /> </p>
 
