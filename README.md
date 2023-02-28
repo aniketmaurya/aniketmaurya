@@ -1,27 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aniket Maurya</h1>
-<h3 align="center">🥑 Developer Advocate at <a href="https://lightning.ai">Lightning AI</a> | 👨‍💻 Building Intelligent Software with Machine Learning</h3>
+<h3 align="center">🥑 Developer Advocate at <a href="https://lightning.ai/">Lightning AI</a> | 👨‍💻 Building Intelligent Software with Machine Learning</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmaurya" /> </p>
+- 🎉 Created [Chitra](http://github.com/aniketmaurya/chitra), a multi-functional library for full-stack Deep Learning that simplifies Model Building, API Development, and Model Deployment.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmaurya" alt="aniketmaurya" /></a> </p>
+- After getting bored with iterative Machine Learning, I created [GradsFlow](https://docs.gradsflow.com/), an AutoML library in PyTorch ⚡️ 🚀
 
-<p align="left"> <a href="https://twitter.com/aniketmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/aniketmaurya?logo=twitter&style=for-the-badge" alt="aniketmaurya" /></a> </p> -->
+- 👨‍💻 I enjoy sharing my limited knowledge of ML/AI and Programming through my blogs [http://aniketmaurya.com](http://aniketmaurya.com/)
 
+- 💬 Ask me about **PyTorch Lightning, Computer Vision (GANs, Object Detection, Face Recognition), and Information Extraction from Text and Image Documents (NLP + CV)**
 
-- 🎉 Created [Chitra](http://github.com/aniketmaurya/chitra), A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment.
+- 📫 You can reach me at **[hello@aniketmaurya.com](mailto:hello@aniketmaurya.com)**
 
-- After getting bored with iterative Machine Learning I created [GradsFlow](https://docs.gradsflow.com) - an AutoML library in PyTorch ⚡️ 🚀
-
-
-<!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.com/](https://aniketmaurya.com/) -->
-
-- 👨‍💻 I like to share my limited knowledge of ML/AI and Programming with my blogs [http://aniketmaurya.com](http://aniketmaurya.com)
-
-- 💬 Ask me about **PyTorch Lightning, Computer Vision - (GANs, Object detection, Face Recognition), Information extraction from text and image documents (NLP + CV)**
-
-- 📫 How to reach me **hello@aniketmaurya.com**
-
-- ⚡ Fun fact **Chai over Coffee**
+- ⚡ Fun fact: I prefer chai over coffee.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
