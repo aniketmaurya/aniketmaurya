@@ -2,7 +2,16 @@
 <h3 align="center">🥑 Developer Advocate at <a href="https://lightning.ai/">Lightning AI</a> | 👨‍💻 Building Intelligent Software with Machine Learning</h3>
 
 # 💫 About Me:
-🎉 Created Chitra, a multi-functional library for full-stack Deep Learning that simplifies Model Building, API Development, and Model Deployment.<br><br>After getting bored with iterative Machine Learning, I created GradsFlow, an AutoML library in PyTorch ⚡️ 🚀<br><br>👨‍💻 I enjoy sharing my limited knowledge of ML/AI and Programming through my blogs http://aniketmaurya.com<br><br>💬 Ask me about PyTorch Lightning, Computer Vision (GANs, Object Detection, Face Recognition), and Information Extraction from Text and Image Documents (NLP + CV)<br><br>📫 You can reach me at hello@aniketmaurya.com<br><br>⚡ Fun fact: I prefer chai over coffee.
+🎉 Created Chitra, a multi-functional library for full-stack Deep Learning that simplifies Model Building, API Development, and Model Deployment.<br><br>After getting bored with iterative Machine Learning, I created GradsFlow, an AutoML library in PyTorch ⚡️ 🚀
+
+👨‍💻 I enjoy sharing my limited knowledge of ML/AI and Programming through my blogs http://aniketmaurya.com
+
+💬 Ask me about LLMs, PyTorch Lightning, Computer Vision (GANs, Object Detection, Face Recognition), and Information Extraction from Text and Image Documents (NLP + CV)
+
+📫 You can reach me at aniketmaurya@outlook.com
+
+⚡ Fun fact: I prefer chai over coffee.
+
 
 
 ## 🌐 Socials:
