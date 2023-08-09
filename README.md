@@ -1,54 +1,55 @@
 <h1 align="center">Hi 👋, I'm Aniket Maurya</h1>
-<h3 align="center">👨‍💻 Building Intelligent Software with Machine Learning</h3>
+<h3 align="center">🥑 Developer Advocate at <a href="https://lightning.ai/">Lightning AI</a> | 👨‍💻 Building Intelligent Software with Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmaurya" /> </p>
+# 💫 About Me:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmaurya" alt="aniketmaurya" /></a> </p>
+🧡 Creator of [GradsFlow](https://gradsflow.com) - a zero-code machine learning training and deployment software 🚀
 
-<p align="left"> <a href="https://twitter.com/aniketmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/aniketmaurya?logo=twitter&style=for-the-badge" alt="aniketmaurya" /></a> </p>
+🎉 Created Chitra, a multi-functional library for full-stack Deep Learning that simplifies Model Building, API Development, and Model Deployment. 🚀
+
+👨‍💻 I enjoy sharing my limited knowledge of ML/AI and Programming through my blogs http://aniketmaurya.com
 
 
 - 🎉 I created [Chitra](http://github.com/aniketmaurya/chitra), a Python library for rapid computer vision experiment and model interpretability with minimum code.
 
-<!-- - 👨‍💻 Read my blogs and articles at [https://aniketmaurya.com/](https://aniketmaurya.com/) -->
-
-- 📝 I regulary write articles at [http://blog.aniketmaurya.com](http://blog.aniketmaurya.com)
-
-- 💬 Ask me about **Tensorflow, PyTorch, Computer Vision - (GANs, Object detection, Face Recognition), Information extraction from text and image documents (NLP + CV)**
-
-- 📫 How to reach me **hello@aniketmaurya.com**
-
-- ⚡ Fun fact **Chai over Coffee**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Answer: Resizing image and its bounding box](https://dev.to/aniketmaurya/answer-resizing-image-and-its-bounding-box-5c5d)
-- [DCGAN Tutorial — Deep Convolutional Generative Adversarial Network](https://medium.com/analytics-vidhya/dcgan-tutorial-by-aniket-maurya-f6c137ef0053?source=rss-ad259370ba3c------2)
-- [Deploy Machine Learning Web Apps for Free](https://pub.towardsai.net/deploy-machine-learning-web-app-for-free-70f208e8d31d?source=rss-ad259370ba3c------2)
-- [Building Image Classification API with Tensorflow and FastAPI](https://towardsdatascience.com/image-classification-api-with-tensorflow-and-fastapi-fc85dc6d39e8?source=rss-ad259370ba3c------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/aniketmaurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aniketmaurya" height="30" width="40" /></a>
-<a href="https://twitter.com/aniketmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketmaurya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniketmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketmaurya" height="30" width="40" /></a>
-<a href="https://kaggle.com/aniketmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniketmaurya" height="30" width="40" /></a>
-<a href="https://instagram.com/aniketmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketmaurya" height="30" width="40" /></a>
-<a href="https://medium.com/@aniketmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aniketmaurya" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+💬 Ask me about LLMs, PyTorch Lightning, Computer Vision (GANs, Object Detection, Face Recognition), and Information Extraction from Text and Image Documents (NLP + CV)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aniketmaurya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniketmaurya" /></a></p><br><br>
+📫 You can reach me at aniketmaurya@outlook.com
+
+⚡ Fun fact: I prefer chai over coffee.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketmaurya&show_icons=true&locale=en&layout=compact" alt="aniketmaurya" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmaurya)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aniketmaurya)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/aniketmaurya)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aniketmaurya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aniketmaurya) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Aniket_Maurya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aniketmaurya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aiwithaniket) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmaurya&show_icons=true&locale=en" alt="aniketmaurya" /></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aniketmaurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketmaurya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmaurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmaurya&" alt="aniketmaurya" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aniketmaurya&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=aniketmaurya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aniketmaurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aniketmaurya&icon=7&color=7)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aniketmaurya) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aniketmaurya) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aniketmaurya) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
