@@ -7,7 +7,7 @@
 
 🎉 Architect behind Chitra, a versatile library for end-to-end Deep Learning that simplifies Model Building, API Development, and Model Deployment. 🚀
 
-👨‍💻 I'm deeply passionate about sharing insights on ML/AI and Programming through my blogs at http://aniketmaurya.com
+👨‍💻 I'm deeply passionate about sharing insights on ML/AI and Programming through my blogs at https://aniketmaurya.com
 
 💬 Feel free to inquire about Large Language Models (LLMs), PyTorch Lightning, Computer Vision (including GANs, Object Detection, Face Recognition), and leveraging Text and Image Documents for information extraction (NLP + CV)
 
