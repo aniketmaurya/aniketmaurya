@@ -2,7 +2,10 @@
 <h3 align="center">🥑 Developer Advocate at <a href="https://lightning.ai/">Lightning AI</a> | 👨‍💻 Building Intelligent Software with Machine Learning</h3>
 
 # 💫 About Me:
-🎉 Created Chitra, a multi-functional library for full-stack Deep Learning that simplifies Model Building, API Development, and Model Deployment.<br><br>After getting bored with iterative Machine Learning, I created GradsFlow, an AutoML library in PyTorch ⚡️ 🚀
+
+🧡 Creator of [GradsFlow](https://gradsflow.com) - a zero-code machine learning training and deployment software 🚀
+
+🎉 Created Chitra, a multi-functional library for full-stack Deep Learning that simplifies Model Building, API Development, and Model Deployment. 🚀
 
 👨‍💻 I enjoy sharing my limited knowledge of ML/AI and Programming through my blogs http://aniketmaurya.com
 
@@ -11,7 +14,6 @@
 📫 You can reach me at aniketmaurya@outlook.com
 
 ⚡ Fun fact: I prefer chai over coffee.
-
 
 
 ## 🌐 Socials:
