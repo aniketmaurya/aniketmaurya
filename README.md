@@ -55,4 +55,6 @@
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aniketmaurya)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aniketmaurya)
 
+[![Aniket Maurya profile views](https://u8views.com/api/v1/github/profiles/21018714/views/day-week-month-total-count.svg)](https://u8views.com/github/aniketmaurya) 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
