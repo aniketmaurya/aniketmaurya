@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋 I'm Aniket Maurya</h1>
-<h3 align="center">🚀 Developer Advocate at <a href="https://lightning.ai/">Lightning AI</a> | 🧠 Building Intelligent Softwares with Machine Learning</h3>
+<h3 align="center">🚀 Machine Learning - Software Engineer at <a href="https://lightning.ai/">Lightning AI</a> | 🧠 Building Intelligent Softwares with Machine Learning</h3>
 
 # 🌟 About Me:
 
