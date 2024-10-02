@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋 </h1>
-<h3 align="center">Machine Learning Engineer at Lightning AI ⚡️ </h3>
+<h3 align="center">Machine Learning Software Engineer at Lightning AI ⚡️ </h3>
   
 <p align="center">I build 🧠 Intelligent Softwares with Machine Learning</p>
 
