@@ -6,6 +6,8 @@
 
 # 🌟 About Me:
 
+⚡ Building [LitServe](https://github.com/lightning-ai/litserve) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale. ⚡
+
 🧡 Creator of [GradsFlow](https://gradsflow.com) - Empowering zero-code machine learning training and deployment 🚀
 
 🎉 Architect behind Chitra, a versatile library for end-to-end Deep Learning that simplifies Model Building, API Development, and Model Deployment. 🚀
